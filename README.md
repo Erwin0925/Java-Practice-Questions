@@ -3,7 +3,7 @@
 This repository contains various Java practice programs categorized into different fundamental and advanced concepts.  
 Below is a detailed explanation of each folder and the key concepts covered within.
 
-## 📁 [**BinaryTree**](./BinaryTree)
+## 📁 [**BinaryTree**](.src/BinaryTree)
 This folder contains implementations of binary tree data structures and related algorithms.
 
 ## 📁 [**HashMap**](./HashMap)
