@@ -1,3 +1,4 @@
+# HashMap
 ## Question 1: Count Word Frequency in a String
 Write a Java program to count the frequency of each word in a given string using a HashMap.
 
