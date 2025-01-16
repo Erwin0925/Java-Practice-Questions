@@ -1,11 +1,10 @@
-import HashMap.question1;
-import HashMap.question2;
-import HashMap.question3;
-import HashMap.question4;
+import Search_Sort.question56;
+import Search_Sort.question57;
+import Search_Sort.question58;
 
 public class Main {
     public static void main(String[] args) {
-        question4 ques = new question4();
-        ques.CheckAnagrams();
+        question58 ques = new question58();
+        ques.BubbleSort();
     }
 }
